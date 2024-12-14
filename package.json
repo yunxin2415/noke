@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "md-editor-v3": "^5.0.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-class-properties": "^7.25.9",
+    "@babel/plugin-transform-private-methods": "^7.25.9",
+    "@babel/plugin-transform-private-property-in-object": "^7.25.9"
+  }
+}
